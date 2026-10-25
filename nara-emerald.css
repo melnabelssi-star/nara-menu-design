@@ -1,0 +1,24 @@
+
+/* NARA – Emerald Luxury Theme */
+
+:root {
+  --color-primary: #073D32;
+  --color-accent: #B58B50;
+  --color-accent-light: #D8B57C;
+  --color-accent-dark: #946C37;
+  --color-success: #16856B;
+
+  --color-background: #F2E9DA;
+  --color-surface: #FFFBF5;
+  --color-surface-hover: #EDE3D4;
+  --color-cream: #F2E9DA;
+  --color-border: #D8CDBB;
+
+  --color-text-primary: #173A31;
+  --color-text-secondary: #575E55;
+
+  --radius-card: 1rem;
+  --radius-button: 0.75rem;
+  --radius-input: 0.75rem;
+  --radius-pill: 9999px;
+}
