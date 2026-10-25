@@ -49,4 +49,10 @@ nav.fixed.bottom-0 a,
 nav.fixed.bottom-0 button {
   color: #F2E9DA !important;
 }
+/* NARA – Gruene Kopf- und Menueleiste */
+header.sticky,
+header.sticky > div,
+nav.fixed.bottom-0 {
+  background-color: #073D32 !important;
+}
 
