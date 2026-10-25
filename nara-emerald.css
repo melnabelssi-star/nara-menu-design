@@ -22,3 +22,28 @@
   --radius-input: 0.75rem;
   --radius-pill: 9999px;
 }
+
+
+/* NARA – dunkelgruener Header */
+header.sticky {
+  background-color: #073D32 !important;
+  border-color: #073D32 !important;
+}
+
+/* Kategorien: Gruen und Gold */
+button[role="tab"][aria-selected="true"] {
+  background-color: #073D32 !important;
+  color: #FFFFFF !important;
+}
+
+/* NARA – untere Menueleiste */
+nav.fixed.bottom-0 {
+  background-color: #073D32 !important;
+  border-color: #073D32 !important;
+}
+
+nav.fixed.bottom-0 a,
+nav.fixed.bottom-0 button {
+  color: #F2E9DA !important;
+}
+
