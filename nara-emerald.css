@@ -55,4 +55,13 @@ header.sticky > div,
 nav.fixed.bottom-0 {
   background-color: #073D32 !important;
 }
+.servioo-header,
+.servioo-bottom-nav {
+  background-color: #073D32 !important;
+  border-color: #073D32 !important;
+}
 
+.servioo-bottom-nav a,
+.servioo-bottom-nav button {
+  color: #F2E9DA !important;
+}
